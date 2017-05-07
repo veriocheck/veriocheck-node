@@ -1,0 +1,32 @@
+{
+  "name": "veriocheck",
+  "version": "0.1.5",
+  "description": "VerioCheck Contact Validation & Identity Verification API",
+  "main": "index.js",
+  "dependencies": {
+    "request": "^2.81.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "VerioCheck",
+    "Address",
+    "Address Validation",
+    "Validation",
+    "Identity",
+    "Verification",
+    "Name",
+    "Gender",
+    "SMS",
+    "Verification",
+    "IP",
+    "Reputation",
+    "Check",
+    "Email",
+    "API"
+  ],
+  "author": "VerioCheck",
+  "license": "MIT"
+}
